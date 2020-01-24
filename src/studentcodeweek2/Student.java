@@ -12,7 +12,7 @@ package ca.sheridancollege.softwarefundamentals.week1;
  */
 public class Student 
 {
-    //adding this comment here to test the pull method 
+    //adding this comment here to test the pull method
     private String name;
     private String studentID;
 

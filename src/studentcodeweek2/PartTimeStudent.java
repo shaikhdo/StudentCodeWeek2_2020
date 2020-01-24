@@ -12,7 +12,7 @@ package studentcodeweek2;
 public class PartTimeStudent extends Student{
     
     private int hoursOfStudy; 
-    public PartTimeStudent(Strin givenName, String givenID)
+    public PartTimeStudent(String givenName, String givenID)
     {
         super(givenName, givenID);
     }
